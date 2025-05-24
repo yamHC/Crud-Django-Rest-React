@@ -19,3 +19,6 @@ cliente/node_modules/
 cliente/dist/
 cliente/.env.local
 cliente/.env
+
+.env
+db.sqlite3
