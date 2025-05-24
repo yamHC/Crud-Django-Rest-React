@@ -1,0 +1,21 @@
+# General
+*.log
+*.pyc
+__pycache__/
+.env
+.env.*
+
+# Python
+db.sqlite3
+venv/
+*.sqlite3
+
+# Django
+/static/
+media/
+
+# Node (React)
+cliente/node_modules/
+cliente/dist/
+cliente/.env.local
+cliente/.env
